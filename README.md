@@ -5,7 +5,7 @@
 - Ter o Google Chrome instalado
 
 # Como Instalar
-####Siga as seguintes instruções
+###Siga as seguintes instruções
                 
 + Faça o download do repositório;
 + Extraia o arquivo;
@@ -14,4 +14,4 @@
     * Selecione a opção abrir com
     * Procure por Google Chrome e abra.
 # Como Jogar
-
+![](https://github.com/natasilva/Jogo-da-Forca/blob/master/img/Jogoforca.gif) ![
