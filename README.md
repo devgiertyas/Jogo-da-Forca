@@ -14,4 +14,7 @@
     * Selecione a opção abrir com
     * Procure por Google Chrome e abra.
 # Como Jogar
-![](https://github.com/natasilva/Jogo-da-Forca/blob/master/img/Jogoforca.gif) ![
+![](https://github.com/natasilva/Jogo-da-Forca/blob/master/img/Jogoforca.gif)
+
+[Links](https://jogo-da-forca-belcubstze.now.sh)
+
