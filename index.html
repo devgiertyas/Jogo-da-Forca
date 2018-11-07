@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html onselectstart="return false" lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Jogo da Forca</title>
+
+    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="animate.css">
+    <script src="script.js"></script>
+</head>
+
+<body onselectstart="return false" onload="load()">
+
+    <div class="palavraforca">
+
+        <dialog onselectstart="return false" class="menu">
+
+            <h1>Jogo da Forca</h1>
+
+            <button class="jogar" id="jogar" onclick="OpenNewDialog()">Jogar Com Amigos</button>
+            <br>
+
+            <button class="jogar" id="jogarrandom" onclick="GetPalavraRandom()">Jogar Sozinho</button>
+
+        </dialog>
+
+        <dialog onselectstart="return false" class="indicarpalavra">
+            <label for="txtpalavradaforca">Informe a Palavra:</label>
+            <input type="text" name="" id="txtpalavradaforca">
+            <button style="background-color: yellow; width: 80px;" id="multiplayer" onclick="GetPalavra()">Jogar</button>
+        </dialog>
+
+        <dialog onselectstart="return false" class="winner">
+            <p class="animated jackInTheBox infinite">WIN</p>
+        </dialog>
+    </div>
+
+    <table onselectstart="return false">
+        <td>
+            <div class="personagemforca">
+
+                <canvas id="canvas1" width="600px" ; height="500px">
+
+                </canvas>
+
+            </div>
+        </td>
+        <td>
+            <div class="palavra" id="palavratest">
+            </div>
+        </td>
+    </table>
+    <div onselectstart="return false" class="digitarPalavra">
+        <div onselectstart="return false" id="keyboard-container">
+
+            <button id="q"> Q</button>
+            <button id="w"> W</button>
+            <button id="e"> E</button>
+            <button id="r"> R</button>
+            <button id="t"> T</button>
+            <button id="y"> Y</button>
+            <button id="u"> U</button>
+            <button id="i"> I</button>
+            <button id="o"> O</button>
+            <button id="p">P</button>
+            <br>
+            <button id="a">A</button>
+            <button id="s">S</button>
+            <button id="d">D</button>
+            <button id="f">F</button>
+            <button id="g">G</button>
+            <button id="h">H</button>
+            <button id="j">J</button>
+            <button id="k">K</button>
+            <button id="l">L</button>
+            <button id="ç">Ç</button>
+            <br>
+            <button id="z">Z</button>
+            <button id="x">X</button>
+            <button id="c">C</button>
+            <button id="v">V</button>
+            <button id="b">B</button>
+            <button id="n">N</button>
+            <button id="m">M</button>
+        </div>
+
+        <p id="txtletraserradas">
+
+        </p>
+    </div>
+</body>
+
+</html>

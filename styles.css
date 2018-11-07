@@ -1,0 +1,136 @@
+#btnreset{
+    width: 100px;
+    height: 50px;
+    background-color: yellow;
+}
+button {
+    margin: 4px 2px;
+    box-shadow: 3px 5px 10px rgba(0, 0, 0, 0.8);
+    border-radius: 3px;
+    width: 50px;
+    height: 30px;
+    font-size: 16px;
+    font-weight: bold;
+    border: 1px solid #5f5f5f;
+    transition: transform 0.1s;
+}
+
+button:focus{
+    outline: 0;
+}
+
+button:hover{
+    background-color: white;
+    transform: scale(1.2)
+}
+
+#keyboard-container {
+    text-align: center;
+    background-color: rebeccapurple;
+    width: 600px;
+    padding: 15px;
+    border-radius: 10px;
+    border: 2px solid #37234a;
+    box-shadow: 3px 5px 10px rgba(0, 0, 0, 0.8);
+    margin-left: 500px;
+}
+.menu{
+background-color: rebeccapurple;
+margin-top:150px;
+}
+.indicarpalavra{
+    background-color: rebeccapurple
+}
+
+.menu h1{
+font-size: 80px;
+}
+.head{
+    width: 100%;
+    color: white;
+    text-align: center;
+    height: 60px;
+    background-color: black;
+    font-size: 50px;
+}
+.descricao{
+    font-size: 20px;
+    margin-left: 20px;
+    width: 40%
+}
+body{
+    margin: 0px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.personagemforca{
+width:"600px"; 
+height:"500px";
+}
+.palavraforca{
+padding-top: 20px; 
+margin: 8px;
+text-align: center;
+}
+.inputtxtpalavradaforca{
+margin-bottom: 10px;
+}
+.playersname{
+    text-align: center;
+    margin-top: 10px;
+
+}
+#btniniciar{
+margin-top: 5px;
+
+}
+#jogarrandom{
+    margin-left: 1px;
+}
+.jogar{
+width: 140px;
+height: 40px;    
+background-color: yellow;
+color: black;
+padding: 0;
+margin: 5px;
+border: 1px solid black;  
+}
+
+canvas{
+    margin: 0px;
+}
+
+.traco{
+   
+    margin: 5px;
+    font-size: 40px;
+    width: 45px;
+    float: left;
+}
+#txtletraserradas{
+    font-size: 30px;
+    border: none;
+}
+#txtpalavradaforca{
+text-transform:uppercase;
+}
+#txtdigitarletra{
+text-transform:uppercase;
+
+}
+.digitarPalavra{
+    text-align: center;
+}
+.palavra{
+    text-align: center;
+}
+#btninformarletra{
+    margin-left: 2px;
+}
+.winner{
+    border: none;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 100px; 
+    text-align: center;
+ 
+}
