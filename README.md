@@ -5,7 +5,7 @@
 - Ter o Google Chrome instalado
 
 # Como Instalar
-###Siga as seguintes instruções
+### Siga as seguintes instruções
                 
 + Faça o download do repositório;
 + Extraia o arquivo;
@@ -16,5 +16,5 @@
 # Como Jogar
 ![](https://github.com/natasilva/Jogo-da-Forca/blob/master/img/Jogoforca.gif)
 
-[Links](https://jogo-da-forca-belcubstze.now.sh)
+[Demo](https://jogo-da-forca-belcubstze.now.sh)
 
