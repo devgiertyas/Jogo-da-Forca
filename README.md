@@ -1,6 +1,6 @@
 # Jogo-da-Forca
 - Minha versão do jogo da forca para WEB.
-
+- Link reduzido: https://bit.ly/2FnkCQO
 [Demo](https://jogo-da-forca-uxnqyaactv.now.sh)
 
 ![](https://github.com/natasilva/Jogo-da-Forca/blob/master/img/Jogoforca.gif)
