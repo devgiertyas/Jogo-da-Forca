@@ -1,7 +1,7 @@
 # Jogo-da-Forca
 - Minha versão do jogo da forca para WEB.
 
-[Demo](https://jogo-da-forca-yrfaxkscfs.now.sh)
+[Demo](https://jogo-da-forca-uxnqyaactv.now.sh)
 
 ![](https://github.com/natasilva/Jogo-da-Forca/blob/master/img/Jogoforca.gif)
 # Requisitos Básicos
