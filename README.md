@@ -16,5 +16,5 @@
 # Como Jogar
 ![](https://github.com/natasilva/Jogo-da-Forca/blob/master/img/Jogoforca.gif)
 
-[Demo](https://jogo-da-forca-belcubstze.now.sh)
+[Demo](https://jogo-da-forca-yrfaxkscfs.now.sh)
 
