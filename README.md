@@ -22,6 +22,7 @@
     * Clique no botão jogar sozinho. 
     * O sistema irá gerar uma palavra e a dica da palavra
     * Pressione as teclas do teclado e tente a sorte.
+    
 + Player VS Player
     * Clique no botão jogar com um amigo. 
     * Nesse modo dois players no mesmo computador podem se desafiar.
